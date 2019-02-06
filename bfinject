@@ -239,7 +239,8 @@ for DYLIB in ${DYLIBS[@]}; do
     #
     # Inject!
     #
-    ./plrun "$RANDOM_NAME" "$PID" "$DYLIB_PATH"
+    #./plrun "$RANDOM_NAME" "$PID" "$DYLIB_PATH"
+    "$RANDOM_NAME" "$PID" "$DYLIB_PATH"
     rm -f "$RANDOM_NAME"
 done
 
