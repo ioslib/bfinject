@@ -10,15 +10,15 @@ bfinject is a wrapper that takes care of correctly codesigning your dylibs befor
 **Note**: bfdecrypt is available as a standalone dylib here: https://github.com/BishopFox/bfdecrypt/
 
 ## Navigate
-* [Electra setup](https://github.com/BishopFox/bfinject/blob/master/README.md#electra-setup)
-* [LiberiOS setup](https://github.com/BishopFox/bfinject/blob/master/README.md#liberios-setup)
-* [Using bfinject](https://github.com/BishopFox/bfinject/blob/master/README.md#using-bfinject)
-* [Testing bfinject](https://github.com/BishopFox/bfinject/blob/master/README.md#a-simple-test)
-* [Decrypting App Store apps](https://github.com/BishopFox/bfinject/blob/master/README.md#decrypt-app-store-apps)
-* [Cycript](https://github.com/BishopFox/bfinject/blob/master/README.md#cycript)
-* [How does it work?](https://github.com/BishopFox/bfinject/blob/master/README.md#how-does-it-work)
-* [Known issues](https://github.com/BishopFox/bfinject/blob/master/README.md#known-issues)
-* [Credits](https://github.com/BishopFox/bfinject/blob/master/README.md#credits)
+* [Electra setup](https://github.com/antoniozekic/bfinject/blob/master/README.md#electra-setup)
+* [LiberiOS setup](https://github.com/antoniozekic/bfinject/blob/master/README.md#liberios-setup)
+* [Using bfinject](https://github.com/antoniozekic/bfinject/blob/master/README.md#using-bfinject)
+* [Testing bfinject](https://github.com/antoniozekic/bfinject/blob/master/README.md#a-simple-test)
+* [Decrypting App Store apps](https://github.com/antoniozekic/bfinject/blob/master/README.md#decrypt-app-store-apps)
+* [Cycript](https://github.com/antoniozekic/bfinject/blob/master/README.md#cycript)
+* [How does it work?](https://github.com/antoniozekic/bfinject/blob/master/README.md#how-does-it-work)
+* [Known issues](https://github.com/antoniozekic/bfinject/blob/master/README.md#known-issues)
+* [Credits](https://github.com/antoniozekic/bfinject/blob/master/README.md#credits)
 
 ## LiberiOS Setup
 * Jailbreak your iOS 11.0 - 11.1.2 device with LiberiOS >= 11.0.3
